@@ -1,16 +1,14 @@
 {
-    "compilerOptions": {
-        "target": "ESNext",
-        "moduleResolution": "node",
-        "baseUrl": "./src",
-        "noEmit": true,
-        "allowJs": true,
-        "allowSyntheticDefaultImports": true,
-        "strict": true,
-        "noImplicitAny": true,
-        "alwaysStrict": true
-    },
-    "include": [
-        "./src/**/*"
-    ]
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "noEmit": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "alwaysStrict": true
+  },
+  "include": ["./src/**/*"]
 }
